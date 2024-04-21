@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Anjan kumar</h1>
+<h1 align="left">Namaste 👋, I'm Anjan kumar</h1>
 <h3 align="left">A passionate web developer from India</h3>
 <!-- <img aling="right" alt ="Coding" width ="400" src="[https://dribbble.com/shots/5290005-Nerd-checks-the-email/attachments/10787038?mode=media](https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1703661951~exp=1703662551~hmac=c76725105860b378e88da48455d09892443e5ba105d18e3f97db56cea514d559)" -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjank9&label=Profile%20views&color=0e75b6&style=flat" alt="anjank9" /> </p>
