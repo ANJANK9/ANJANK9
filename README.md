@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/engineeranjan" target="blank"><img src="https://img.shields.io/twitter/follow/engineeranjan?logo=twitter&style=for-the-badge" alt="engineeranjan" /></a> </p>
 
-- 🔭 I’m currently working on **Apna HMS**
+- 🔭 I’m currently working on **Apna TMS**
 
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://anjank9.github.io/Selfobia/](https://anjank9.github.io/Selfobia/)
 
-- 💬 Ask me about **JAVA, JAVASCRIPT**
+- 💬 Ask me about **JAVA, JAVASCRIPT. PYTHON, HTML, CSS** 
 
 - 📫 How to reach me **anjankumar00025@gmail.com**
 
